@@ -2,23 +2,20 @@
   "manifest_version": 2,
   "name": "Edit",
 	"version": "1.0.0",
-
   "description": "Edit webpages.",
 	"icons": {
-		"48": "ic_mode_edit_black_48dp_1x.png"
+  	"16": "assets/pencil_16.png",
+  	"48": "assets/pencil_48.png",
+  	"128": "assets/pencil_128.png"
 	},
-
-	"browser_action": {
-		"default_icon": "ic_mode_edit_black_18dp_1x.png"
-	},
-
+	"browser_action": {},
 	"author": "Peter Han",
 	"background": {
-		"persistent": false,
-		"scripts": ["onclick.js"]
+		"scripts": ["background.js"],
+		"persistent": false
 	},
-
 	"permissions": [
-		"activeTab"
+		"activeTab",
+		"notifications"
 	]
 }
