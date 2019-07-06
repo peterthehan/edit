@@ -1,21 +1,18 @@
 {
   "manifest_version": 2,
   "name": "Edit",
-	"version": "1.0.0",
+  "version": "1.0.0",
   "description": "Edit webpages.",
-	"icons": {
-  	"16": "assets/pencil_16.png",
-  	"48": "assets/pencil_48.png",
-  	"128": "assets/pencil_128.png"
-	},
-	"browser_action": {},
-	"author": "Peter Han",
-	"background": {
-		"scripts": ["background.js"],
-		"persistent": false
-	},
-	"permissions": [
-		"activeTab",
-		"notifications"
-	]
+  "icons": {
+    "16": "assets/pencil_16.png",
+    "48": "assets/pencil_48.png",
+    "128": "assets/pencil_128.png"
+  },
+  "browser_action": {},
+  "author": "Peter Han",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": ["activeTab", "notifications"]
 }
