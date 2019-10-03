@@ -1,5 +1,7 @@
 <div>
-  <img src="https://raw.githubusercontent.com/peterthehan/edit/master/assets/edit_128.png" title="Edit" />
+  <p>
+    <img src="https://raw.githubusercontent.com/peterthehan/edit/master/assets/edit_128.png" title="Edit" />
+  </p>
 </div>
 
 # Edit
