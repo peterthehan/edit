@@ -8,7 +8,7 @@ Edit webpages.
 
 <div align="center">
   <p>
-    <img src="https://raw.githubusercontent.com/peterthehan/edit/master/assets/demo.gif" title="Edit" />
+    <img src="https://raw.githubusercontent.com/peterthehan/edit/master/assets/demo.gif" title="Demo" />
   </p>
 </div>
 
