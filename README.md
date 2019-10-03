@@ -1,6 +1,8 @@
-# Edit
+<div>
+  <img src="https://raw.githubusercontent.com/peterthehan/edit/master/assets/edit_128.png" title="Edit" />
+</div>
 
-# About
+# Edit
 
 Edit webpages.
 
