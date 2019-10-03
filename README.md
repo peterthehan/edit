@@ -1,8 +1,4 @@
-<div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/peterthehan/edit/master/assets/banner.png" title="Edit" />
-  </p>
-</div>
+# Edit
 
 # About
 
